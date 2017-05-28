@@ -1,0 +1,49 @@
+C:\Program Files (x86)\Luxand\FaceSDK\samples\FacialFeatures\C#\bin\Debug\FacialFeatures_VS2010+.exe.config
+C:\Program Files (x86)\Luxand\FaceSDK\samples\FacialFeatures\C#\bin\Debug\FacialFeatures_VS2010+.exe
+C:\Program Files (x86)\Luxand\FaceSDK\samples\FacialFeatures\C#\bin\Debug\FacialFeatures_VS2010+.pdb
+C:\Program Files (x86)\Luxand\FaceSDK\samples\FacialFeatures\C#\bin\Debug\FaceSDK.NET.dll
+C:\Program Files (x86)\Luxand\FaceSDK\samples\FacialFeatures\C#\obj\Debug\FacialFeatures_VS2010+.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Luxand\FaceSDK\samples\FacialFeatures\C#\obj\Debug\FacialFeatures.Form1.resources
+C:\Program Files (x86)\Luxand\FaceSDK\samples\FacialFeatures\C#\obj\Debug\FacialFeatures_VS2010.Properties.Resources.resources
+C:\Program Files (x86)\Luxand\FaceSDK\samples\FacialFeatures\C#\obj\Debug\FacialFeatures_VS2010+.csproj.GenerateResource.Cache
+C:\Program Files (x86)\Luxand\FaceSDK\samples\FacialFeatures\C#\obj\Debug\FacialFeatures_VS2010+.exe
+C:\Program Files (x86)\Luxand\FaceSDK\samples\FacialFeatures\C#\obj\Debug\FacialFeatures_VS2010+.pdb
+C:\Users\Emre YILMAZ\Desktop\C#\bin\Debug\FacialFeatures_VS2010+.exe.config
+C:\Users\Emre YILMAZ\Desktop\C#\obj\Debug\FacialFeatures_VS2010+.exe
+C:\Users\Emre YILMAZ\Desktop\C#\obj\Debug\FacialFeatures_VS2010+.pdb
+C:\Users\Emre YILMAZ\Desktop\C#\bin\Debug\FacialFeatures_VS2010+.exe
+C:\Users\Emre YILMAZ\Desktop\C#\bin\Debug\FacialFeatures_VS2010+.pdb
+C:\Users\Emre YILMAZ\Desktop\C#\bin\Debug\FaceSDK.NET.dll
+C:\Users\Emre YILMAZ\Desktop\C#\obj\Debug\FacialFeatures_VS2010+.csprojResolveAssemblyReference.cache
+C:\Users\Emre YILMAZ\Desktop\C#\obj\Debug\FacialFeatures.Form1.resources
+C:\Users\Emre YILMAZ\Desktop\C#\obj\Debug\FacialFeatures_VS2010.Properties.Resources.resources
+C:\Users\Emre YILMAZ\Desktop\C#\obj\Debug\FacialFeatures_VS2010+.csproj.GenerateResource.Cache
+C:\Users\Emre YILMAZ\Desktop\Mimik tanıma\bin\Debug\FacialFeatures_VS2010+.exe.config
+C:\Users\Emre YILMAZ\Desktop\Mimik tanıma\obj\Debug\FacialFeatures_VS2010+.exe
+C:\Users\Emre YILMAZ\Desktop\Mimik tanıma\obj\Debug\FacialFeatures_VS2010+.pdb
+C:\Users\Emre YILMAZ\Desktop\Mimik tanıma\bin\Debug\FacialFeatures_VS2010+.exe
+C:\Users\Emre YILMAZ\Desktop\Mimik tanıma\bin\Debug\FacialFeatures_VS2010+.pdb
+C:\Users\Emre YILMAZ\Desktop\Mimik tanıma\bin\Debug\FaceSDK.NET.dll
+C:\Users\Emre YILMAZ\Desktop\Mimik tanıma\obj\Debug\FacialFeatures.Form1.resources
+C:\Users\Emre YILMAZ\Desktop\Mimik tanıma\obj\Debug\FacialFeatures_VS2010.Properties.Resources.resources
+C:\Users\Emre YILMAZ\Desktop\Mimik tanıma\obj\Debug\FacialFeatures_VS2010+.csproj.GenerateResource.Cache
+C:\Users\Emre YILMAZ\Desktop\sonProjeMimikTanıma\bin\Debug\FacialFeatures_VS2010+.exe.config
+C:\Users\Emre YILMAZ\Desktop\sonProjeMimikTanıma\bin\Debug\FacialFeatures_VS2010+.exe
+C:\Users\Emre YILMAZ\Desktop\sonProjeMimikTanıma\bin\Debug\FacialFeatures_VS2010+.pdb
+C:\Users\Emre YILMAZ\Desktop\sonProjeMimikTanıma\bin\Debug\FaceSDK.NET.dll
+C:\Users\Emre YILMAZ\Desktop\sonProjeMimikTanıma\obj\Debug\FacialFeatures.Form1.resources
+C:\Users\Emre YILMAZ\Desktop\sonProjeMimikTanıma\obj\Debug\FacialFeatures_VS2010.Properties.Resources.resources
+C:\Users\Emre YILMAZ\Desktop\sonProjeMimikTanıma\obj\Debug\FacialFeatures_VS2010+.csproj.GenerateResource.Cache
+C:\Users\Emre YILMAZ\Desktop\sonProjeMimikTanıma\obj\Debug\FacialFeatures_VS2010+.exe
+C:\Users\Emre YILMAZ\Desktop\sonProjeMimikTanıma\obj\Debug\FacialFeatures_VS2010+.pdb
+C:\Users\Emre YILMAZ\Desktop\sonProjeMimikTanıma\obj\Debug\FacialFeatures_VS2010+.csprojResolveAssemblyReference.cache
+C:\Users\Emre YILMAZ\Desktop\Mimik Tanıma Projesi\2.DÖNEM\sonProjeMimikTanıma\bin\Debug\FacialFeatures_VS2010+.exe.config
+C:\Users\Emre YILMAZ\Desktop\Mimik Tanıma Projesi\2.DÖNEM\sonProjeMimikTanıma\obj\Debug\FacialFeatures_VS2010+.exe
+C:\Users\Emre YILMAZ\Desktop\Mimik Tanıma Projesi\2.DÖNEM\sonProjeMimikTanıma\obj\Debug\FacialFeatures_VS2010+.pdb
+C:\Users\Emre YILMAZ\Desktop\Mimik Tanıma Projesi\2.DÖNEM\sonProjeMimikTanıma\bin\Debug\FacialFeatures_VS2010+.exe
+C:\Users\Emre YILMAZ\Desktop\Mimik Tanıma Projesi\2.DÖNEM\sonProjeMimikTanıma\bin\Debug\FacialFeatures_VS2010+.pdb
+C:\Users\Emre YILMAZ\Desktop\Mimik Tanıma Projesi\2.DÖNEM\sonProjeMimikTanıma\bin\Debug\FaceSDK.NET.dll
+C:\Users\Emre YILMAZ\Desktop\Mimik Tanıma Projesi\2.DÖNEM\sonProjeMimikTanıma\obj\Debug\FacialFeatures.Form1.resources
+C:\Users\Emre YILMAZ\Desktop\Mimik Tanıma Projesi\2.DÖNEM\sonProjeMimikTanıma\obj\Debug\FacialFeatures_VS2010.Properties.Resources.resources
+C:\Users\Emre YILMAZ\Desktop\Mimik Tanıma Projesi\2.DÖNEM\sonProjeMimikTanıma\obj\Debug\FacialFeatures_VS2010+.csproj.GenerateResource.Cache
+C:\Users\Emre YILMAZ\Desktop\Mimik Tanıma Projesi\2.DÖNEM\sonProjeMimikTanıma\obj\Debug\FacialFeatures_VS2010+.csprojResolveAssemblyReference.cache

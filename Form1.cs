@@ -8,6 +8,7 @@ using System.Windows.Forms;
 using System.Runtime.InteropServices;
 using Luxand;
 using System.IO;
+using FacialFeatures_VS2010s;
 
 namespace FacialFeatures
 {
@@ -35,7 +36,7 @@ namespace FacialFeatures
             FSDK.InitializeLibrary();
             FSDK.SetFaceDetectionParameters(true, true, 384);
         }
-
+        List<double> noktaList;
         private void btnOpenPhoto_Click(object sender, EventArgs e)
         {
             if (openFileDialog1.ShowDialog() == DialogResult.OK)
@@ -74,10 +75,16 @@ namespace FacialFeatures
                             dizi2[t] = facialFeatures[j].y;
                             j++;
                         }
+                        noktaList = new List<double>();
                         foreach (FSDK.TPoint point in facialFeatures)
                         {
+                            
                             gr.DrawEllipse((++i > 2) ? Pens.LightGreen : Pens.Blue, point.x, point.y, 3, 3);
                             pictureBox1.Image = frameImage;
+
+                            noktaList.Add(point.x);
+                            noktaList.Add(point.y);
+
                             listBox1.Items.Add(point.x);
                             listBox2.Items.Add(point.y);
                             list.Add(point.x.ToString() + "," + point.y.ToString());
@@ -134,9 +141,13 @@ namespace FacialFeatures
             }
         }
 
+        enum sonuc { igrenme, korku, mutlu, uzgun, kizgin, saskin, notr }
+
+     //   double[] dizi;
+
         private void btnTest_Click(object sender, EventArgs e)
         {
-
+           MessageBox.Show(((sonuc)j48.classify(noktaList.ToArray())).ToString());
         }
     }
 }
